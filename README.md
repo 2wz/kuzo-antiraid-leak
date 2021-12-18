@@ -3,8 +3,8 @@
 <a href="https://discord.gg/after"><img src="https://img.shields.io/discord/682193585210130508?color=7289da&logo=discord&logoColor=white" alt="Serveur support" /></a>
 <a href="https://github.com/apoow3b/kuzobot"><img src="https://img.shields.io/github/stars/apoow3b/kuzobot?style=social" alt="GitHub" /></a>
 
-# KuzBot
-**KuzBot** est un bot __puissant__, __complet__ et **customisable**. Ses plugins de logs, invitations, de backup etc pour un total de plus de 60 commandes vous assure un contrôle de votre communauté !  
+# KuzoBot
+**KuzoBot** est un bot __puissant__, __complet__ et **customisable**. Ses plugins de logs, invitations, de backup etc pour un total de plus de 60 commandes vous assure un contrôle de votre communauté !  
 Découvrez aussi son module de protections, et toutes les commandes utiles à la modération.  
 
 ## Sommaire
